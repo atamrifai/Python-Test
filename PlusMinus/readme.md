@@ -1,3 +1,5 @@
+# Case Instruction
+
 Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
 
 **Note:** This challenge introduces precision problems. The test cases are scaled to six decimal places, though answers with absolute error of up to  are acceptable.
@@ -66,6 +68,5 @@ STDIN           Function
 
 **Explanation**
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/58683035/169642310-73316eb9-6f26-4a87-8596-d2eaa54621e0.png)
 
-![Uploading image.png…]()
