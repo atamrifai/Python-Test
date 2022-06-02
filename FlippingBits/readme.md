@@ -1,2 +1,3 @@
 # Instruction 
-![screenshot](https://user-images.githubusercontent.com/58683035/171545908-615347d7-1f42-4ddf-b209-7618f21988e2.png)
+![image](https://user-images.githubusercontent.com/58683035/171546166-b44104f6-cf63-43ec-a881-5ae862d8701b.png)
+
