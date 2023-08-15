@@ -23,6 +23,7 @@ Print the list of integers from 1 through n as a string, without spaces.
 
 ```3```
 
+
 **Sample Output 0**
 
 ```123```
