@@ -1,28 +1,27 @@
 The included code stub will read an integer, , from STDIN.
-
 Without using any string methods, try to print the following:
+_123...n_
+Note that "..." represents the consecutive values in between.
 
+***Example***
 
-Note that "" represents the consecutive values in between.
+Print the string _12345_
 
-Example
+***Input Format***
 
-Print the string .
+The first line contains an integer _n_
 
-Input Format
+***Constraints***
 
-The first line contains an integer .
+1 <= n <= 150
 
-Constraints
+***Output Format***
 
+Print the list of integers from 1 through n as a string, without spaces.
 
-Output Format
+**Sample Input 0**
 
-Print the list of integers from  through  as a string, without spaces.
+```3```
+**Sample Output 0**
 
-Sample Input 0
-
-3
-Sample Output 0
-
-123
+```123```
