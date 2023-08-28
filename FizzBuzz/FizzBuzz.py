@@ -1,5 +1,5 @@
 #!/bin/python3
-
+import math
 
 
 def fizzBuzz(n):
