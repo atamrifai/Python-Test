@@ -8,10 +8,6 @@ def fizzBuzz(n):
         buzz = 'Buzz' if num%5==0 else '' #save at object buzz if multiple 5 (output buzz if true)
         print(f'{fizz}{buzz}' or num) #print as formatted laterals if all true. else print num
 
-if __name__ == '__main__':
-    n = int(input().strip())
 
-    fizzBuzz(n)
-    
     
  
