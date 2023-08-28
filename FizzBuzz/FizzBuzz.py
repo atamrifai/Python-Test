@@ -1,6 +1,6 @@
 #!/bin/python3
 
-import math
+
 
 def fizzBuzz(n):
     for num in range (1,n+1): #+1 because to include 15
