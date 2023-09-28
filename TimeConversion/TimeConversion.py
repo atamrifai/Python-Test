@@ -22,8 +22,6 @@ def timeConversion(s):
         return(str(int(s[:2])+12)+s[2:-2])
 
 
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     s = input()
     result = timeConversion(s)
